@@ -18,6 +18,15 @@ public class Main {
 
         User user = new Doctor("Alan", "alan@live.com");
 
+        User userAnonymous = new User("Gabriel", "gab@gmail.com") {
+            @Override
+            public void showDataUser() {
+                System.out.println("Anonymous method");
+                System.out.println("name: " + this.getName() + "  email:  " + getEmail());
+
+            }
+        };
+        userAnonymous.showDataUser();
         System.out.println();
         System.out.println();
         Patient patient = new Patient("Alejandra", "alejandra@mail.com");
