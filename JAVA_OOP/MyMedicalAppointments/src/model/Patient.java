@@ -11,6 +11,11 @@ public class Patient extends User {
                 super(name,email);
         }
 
+        @Override
+        public void showDataUser() {
+                System.out.println("Soy un paciente");
+        }
+
         // 54.5
         public void setWeight(double weight) {
                 this.weight = weight;
