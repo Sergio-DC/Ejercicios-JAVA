@@ -1,12 +1,18 @@
 package util;
 
-        import java.io.BufferedWriter;
-        import java.io.File;
-        import java.io.FileNotFoundException;
-        import java.io.FileOutputStream;
-        import java.io.IOException;
-        import java.io.OutputStreamWriter;
-
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+/**
+ * Libreria que permite generar reportes a traves de archivos en cualquier formato
+ * utilizando el Método {@code makeReport}
+ * @author Sergio
+ * @since 2020
+ * @version 1.1
+ */
 public class Report {
 
     private String nameFile;
