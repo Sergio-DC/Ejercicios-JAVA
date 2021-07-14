@@ -32,3 +32,25 @@ CREATE TABLE posts (
 	FOREIGN KEY (usuarios_id) REFERENCES usuarios(id),
 	FOREIGN KEY(categorias_id) REFERENCES categorias(id)
 );
+
+CREATE TABLE etiquetas (
+	id INTEGER PRIMARY KEY,
+	nombre_etiqueta VARCHAR(30)
+);
+
+CREATE TABLE comentarios (
+	id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	comentario TEXT NOT NULL,
+	usuarios_id INTEGER NOT NULL,
+	posts_id INTEGER NOT NULL,
+	FOREIGN KEY(usuarios_id) REFERENCES usuarios(id),
+	FOREIGN KEY(posts_id) REFERENCES posts(id)
+);
+
+CREATE TABLE posts_etiquetas (
+	post_id INTEGER AUTO_INCREMENT,
+	etiqueta_id INTEGER,
+	PRIMARY KEY(post_id, etiqueta_id),
+	FOREIGN KEY(post_id) REFERENCES posts(id),
+	FOREIGN KEY(etiqueta_id) REFERENCES etiquetas(id)
+);
