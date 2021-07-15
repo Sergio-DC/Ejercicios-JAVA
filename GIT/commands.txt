@@ -1,0 +1,24 @@
+git clone [url]
+git mv  [currentName] [newName]
+git init
+git config --global user.name [name]
+git config --global user.email [email]
+git config --global core.editor "code --wait"
+git config --list
+git add .git commit -m "first commit"
+git status
+git branch -a
+git branch -d [branchName]
+git push [remoteURL/remoteName] [branch]
+git merge [branchName]
+git checkout [branchName]
+git checkout -b [newName]
+git pull [branchName] [remoteURL/remoteName]
+git diff [previousHash] [actualHash]
+git rm -r --cached [node_modules]
+git remote add <name> <url>
+git config --get remote.origin.url
+git config --local -l
+git config --global -l
+git reset --hard HEAD~3 → git push origin -f
+git show-branch
