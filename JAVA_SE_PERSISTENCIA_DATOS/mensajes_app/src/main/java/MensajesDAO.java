@@ -7,7 +7,7 @@ public class MensajesDAO {
     public static void crearMensaje(Mensajes mensaje) {
         Conexion dbConnect = new Conexion();
         try(Connection connection = dbConnect.getConnection()) {
-            String sql = "INSERT INTO mensaje(mensaje, autor_mensaje) VALUES (?,?)";
+            String sql = "INSERT INTO mensajes(mensaje, autor_mensaje) VALUES (?,?)";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setString(1, mensaje.getMensaje());
             preparedStatement.setString(2, mensaje.getAutorMensaje());
