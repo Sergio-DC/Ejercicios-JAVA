@@ -10,6 +10,7 @@ Conjunto de ejercicios y proyectos de pequeña escala de los cursos de la plataf
 - [Java Avanzado](#java-avanzado)
 - [BD](#bd)
 - [Java Persistencia](#java-persistencia)
+- [Tecnologías](#tecnologias)
 
 ### Terminal ###
 Curso: https://platzi.com/clases/terminal/
@@ -35,3 +36,9 @@ Código Fuente: https://github.com/Sergio-DC/Ejercicios-Platzi/tree/main/bd
 ## Java Persistencia
 Curso: https://platzi.com/clases/java-persistencia/ <br>
 Código Fuente: https://github.com/Sergio-DC/Ejercicios-Platzi/tree/main/JAVA_SE_PERSISTENCIA_DATOS
+## Tecnologias
+* JAVA, JDK8
+* IntelliJ IDEA
+* MySQL
+* SHELL
+* GIT y GITHUB
