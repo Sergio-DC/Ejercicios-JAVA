@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.io.IOException;
 
 public class Inicio {
 
@@ -21,7 +22,11 @@ public class Inicio {
 
             switch(opcion_menu){
                 case 0:
-                    GatosService.verGatos();
+                    try {
+                        GatosService.verGatos();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
                     break;
                 default:
                     break;
