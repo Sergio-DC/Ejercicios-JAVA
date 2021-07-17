@@ -12,52 +12,20 @@ Conjunto de ejercicios y proyectos de pequeña escala de los cursos de la plataf
 - [Java Persistencia](#java-persistencia)
 
 ### Terminal ###
-aaaaaaaa
-aaaaaaaa
-aaaaaaaa
-aaaaaaaa
+Curso: https://platzi.com/clases/terminal/
+
 ## Git y Github
-bbbbbbbbb
-bbbbbbbbb
-bbbbbbbbb
-bbbbbbbbb
+Curso: https://platzi.com/clases/git-github/
+Directorio Código Fuente: GIT/
 ## OPP
-ccccccccc
-ccccccccc
-ccccccccc
-ccccccccc
-ccccccccc
+Curso: https://platzi.com/clases/oop/
 ## Intro Java SE
-ddddddddddd
-ddddddddddd
-ddddddddddd
-dddddddddddddddddddddd
-ddddddddddd
+Curso: https://platzi.com/clases/java-basico
 ## Java POO
-eeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
+Curso: https://platzi.com/clases/java-oop/
 ## Java Avanzado
-fffffffffffffffff
-fffffffffffffffff
-fffffffffffffffff
-fffffffffffffffff
-fffffffffffffffff
-fffffffffffffffff
+Curso: https://platzi.com/clases/java-avanzado/
 ## BD
-gggggggggggggggggggg
-gggggggggggggggggggg
-gggggggggggggggggggg
-gggggggggggggggggggg
-gggggggggggggggggggg
-gggggggggggggggggggg
+Curso: https://platzi.com/clases/bd/
 ## Java Persistencia
-hhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhh
+Curso: https://platzi.com/clases/java-persistencia/
