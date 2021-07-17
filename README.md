@@ -3,13 +3,13 @@ Conjunto de ejercicios y proyectos de pequeña escala de los cursos de la plataf
 
 ## Tabla de Contenidos
 - [Terminal](#terminal)
-- Git y GitHub
-- OPP
-- Intro Java SE
-- Java POO
-- Java Avanzado
-- BD
-- Java Persistencia
+- [Git y GitHub](#git-y-github)
+- [OPP](#opp)
+- [Intro Java SE](#intro-java-se)
+- [Java POO](#java-poo)
+- [Java Avanzado](#java-avanzado)
+- [BD](#bd)
+- [Java Persistencia](#java-persistencia)
 
 ### Terminal ###
 aaaaaaaa
