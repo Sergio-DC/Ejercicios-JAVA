@@ -10,6 +10,7 @@ Conjunto de ejercicios y proyectos de pequeña escala de los cursos de la plataf
 - [Java Avanzado](#java-avanzado)
 - [BD](#bd)
 - [Java Persistencia](#java-persistencia)
+- [Clases César Amaya](#clases-cesar-amaya)
 - [Tecnologías](#tecnologias)
 
 ### Terminal ###
@@ -36,6 +37,8 @@ Código Fuente: https://github.com/Sergio-DC/Ejercicios-Platzi/tree/main/bd
 ## Java Persistencia
 Curso: https://platzi.com/clases/java-persistencia/ <br>
 Código Fuente: https://github.com/Sergio-DC/Ejercicios-Platzi/tree/main/JAVA_SE_PERSISTENCIA_DATOS
+## Clases Cesar Amaya
+Código Fuente: https://github.com/Sergio-DC/Ejercicios-Platzi/tree/main/CLASES_CESAR_AMAYA
 ## Tecnologias
 * JAVA, JDK8
 * IntelliJ IDEA
